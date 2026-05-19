@@ -15,7 +15,7 @@ const letters = [
     trigger: "Lagi Kangen",
     detail: "dan hati terasa jauh",
     content:
-      "Coba cek galeri foto kita nomor 42... Ingat hari itu? Aku juga kangen. Jarak itu nyata, tapi rasa ini lebih nyata. Kamu selalu bersamaku — di setiap sudut hari-hariku.",
+      "Aku juga kangen kamu. Mungkin kita sedang berjauhan sekarang, tapi aku selalu dekat di hatimu. Bayangkan aku sedang memelukmu erat lewat surat ini, mengirimkan semua rinduku yang hangat untukmu.",
     icon: "✦",
     rotation: "rotate-1",
   },
